@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
 env:
-  IMAGE_NAME: devopsDjango
+  IMAGE_NAME: devops-django
   
 jobs:
   build:
